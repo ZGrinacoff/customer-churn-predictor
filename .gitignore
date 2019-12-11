@@ -1,0 +1,4 @@
+telco_dash
+*.pyc
+.DS_Store
+.env
